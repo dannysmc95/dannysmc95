@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Rewyre](https://github.com/dannysmc95/rewyre).
 - 🌱 I’m currently learning [Kotlin Lang](https://kotlinlang.org/).
 - 👯 I’m looking to collaborate on [Rewyre](https://github.com/dannysmc95/rewyre).
-- 🤔 I’m looking for help with: `TypeScript ORM Ideas`.
+- 🤔 I’m looking for help with: _TypeScript ORM Ideas_.
 - 💬 Ask me about anything [here](https://github.com/dannysmc95/dannysmc95/issues).
-- ⚡ Fun fact: `I have 3 cats!`
+- ⚡ Fun fact: _I have 3 cats!_
 
