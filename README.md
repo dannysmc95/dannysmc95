@@ -6,4 +6,5 @@
 - 🤔 I’m looking for help with: _TypeScript ORM Ideas_.
 - 💬 Ask me about anything [here](https://github.com/dannysmc95/dannysmc95/issues).
 - ⚡ Fun fact: _I have 3 cats!_
+- 🎮 I'm a gamer, you can find me [on discord!](https://discord.gg/btAySmaMMU).
 
