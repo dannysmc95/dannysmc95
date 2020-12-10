@@ -9,6 +9,7 @@
 - 🎮 I'm a gamer, you can find me [on discord!](https://discord.gg/btAySmaMMU).
 
 ### Languages & Tools
+
 <span><img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 <span><img title="TypeScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></span>
 <span><img title="VueJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></span>
@@ -27,4 +28,6 @@
 <span><img title="Java" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></span>
 
 ### GitHub Information
-[![dannysmc95's github stats](https://github-readme-stats.vercel.app/api?username=dannysmc95&show_icons=true&theme=tokyonight)](https://github.com/dannysmc95/github-readme-stats)
+
+[![dannysmc95's github stats](https://github-readme-stats.vercel.app/api?username=dannysmc95&show_icons=true&theme=tokyonight&locale=en)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannysmc95&layout=compact)]
