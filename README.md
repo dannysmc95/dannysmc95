@@ -29,5 +29,5 @@
 
 ### GitHub Information
 
-[![dannysmc95's github stats](https://github-readme-stats.vercel.app/api?username=dannysmc95&show_icons=true&theme=tokyonight&locale=en)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannysmc95&layout=compact)]
+![dannysmc95's github stats](https://github-readme-stats.vercel.app/api?username=dannysmc95&show_icons=true&theme=tokyonight&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannysmc95&layout=compact)
