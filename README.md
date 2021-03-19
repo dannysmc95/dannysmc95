@@ -1,6 +1,6 @@
 ### Nice to meet you, I am [Danny](https://github.com/dannysmc95).
 
-- 🔭 I’m currently working on [Rewyre](https://github.com/dannysmc95/rewyre).
+- 🔭 I’m currently working on [Spectra UI](https://github.com/dannysmc95/spectra-ui).
 - 🌱 I’m currently learning [Kotlin Lang](https://kotlinlang.org/).
 - 👯 I’m looking to collaborate on [Rewyre](https://github.com/dannysmc95/rewyre).
 - 💬 Ask me about anything [here](https://github.com/dannysmc95/dannysmc95/issues).
