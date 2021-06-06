@@ -1,7 +1,7 @@
 ### Nice to meet you, I am [Danny](https://github.com/dannysmc95).
 
-- 🔭 I’m currently working on [Spectra UI](https://github.com/dannysmc95/spectra-ui).
-- 🌱 I’m currently learning [Kotlin Lang](https://kotlinlang.org/).
+- 🔭 I’m currently working on [Rewyre UI](https://github.com/dannysmc95/rewyre-ui).
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 - 👯 I’m looking to collaborate on [Rewyre](https://github.com/dannysmc95/rewyre).
 - 💬 Ask me about anything [here](https://github.com/dannysmc95/dannysmc95/issues).
 - ⚡ Fun fact: _I have 3 cats!_
@@ -9,8 +9,8 @@
 
 ### Languages & Tools
 
-<span><img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 <span><img title="TypeScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></span>
+<span><img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 <span><img title="VueJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></span>
 <span><img title="GraphQL" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></span>
 <span><img title="Electron" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png"></span>
