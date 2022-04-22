@@ -1,6 +1,6 @@
 ### Nice to meet you, I am [Danny](https://github.com/dannysmc95).
 
-- 🔭 I’m currently working on [@symbux/turbo](https://github.com/Symbux/Turbo).
+- 🔭 I’m currently working on [@symbux/turbo-vite](https://github.com/Symbux/Turbo-Vite).
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 - 👯 I’m looking to collaborate on [Rewyre](https://github.com/dannysmc95/rewyre).
 - 💬 Ask me about anything [here](https://github.com/dannysmc95/dannysmc95/issues).
