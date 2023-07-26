@@ -1,6 +1,6 @@
 ### Nice to meet you, I am [Danny](https://github.com/dannysmc95).
 
-- 🔭 I’m currently working on [@sparx/core](https://github.com/PageVue/).
+- 🔭 I’m currently working on [PageVue](https://github.com/PageVue/).
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 - 👯 I’m looking to collaborate on [Turbo](https://github.com/Symbux/Turbo).
 - 💬 Ask me about anything [here](https://github.com/dannysmc95/dannysmc95/issues).
